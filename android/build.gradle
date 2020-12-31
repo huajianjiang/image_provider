@@ -1,0 +1,57 @@
+group 'com.huajianjiang.flutter.plugins.image_provider'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.1'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        minSdkVersion 16
+    }
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+
+    compileOptions {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    // 图片处理库
+    api 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    // okhttp3 glide 插件
+//    api "com.github.bumptech.glide:okhttp3-integration:4.11.0"
+    // 网络处理库
+    api 'com.squareup.okhttp3:okhttp:3.12.1'
+    api 'com.squareup.retrofit2:retrofit:2.2.0'
+    api 'com.squareup.retrofit2:adapter-rxjava2:2.2.0'
+    api 'com.squareup.retrofit2:converter-gson:2.2.0'
+    // json 数据处理库
+    api 'com.google.code.gson:gson:2.8.5'
+    // 可观测基于事件, 异步处理库
+    api 'io.reactivex.rxjava2:rxjava:2.1.12'
+    api 'io.reactivex.rxjava2:rxandroid:2.0.2'
+}

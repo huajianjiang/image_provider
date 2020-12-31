@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:original" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61a98dda-c426-45ca-9a3f-7c3e9c01785a" name="Default Changelist" comment="Scroll aware loading" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_28]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m6OLCXC0CwUZfykpqYQ3dT7ySI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\flutter-projects-work\magic_library\image_provider\example\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\flutter-projects-work\magic_library\image_provider\lib" />
+      <recent name="D:\flutter-projects-work\magic_library\image_provider\lib\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a98dda-c426-45ca-9a3f-7c3e9c01785a" name="Default Changelist" comment="" />
+      <created>1608810515918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608810515918</updated>
+    </task>
+    <task id="LOCAL-00001" summary="INIT COMMIT">
+      <created>1609323628213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609323628213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Scroll aware loading">
+      <created>1609405075480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609405075480</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="INIT COMMIT" />
+    <MESSAGE value="Scroll aware loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scroll aware loading" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="340" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609400347058">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="208" y="340" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1609400347058" />
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1609156250382">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1609156250382" />
+    <state x="690" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609145431627">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="327" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1609145431627" />
+    <state x="92" y="92" width="1736" height="976" key="AVDManager" timestamp="1609229822932">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="AVDManager/0.0.1920.1160@0.0.1920.1160" timestamp="1609229822932" />
+    <state x="291" y="675" key="FileChooserDialogImpl" timestamp="1609293695139">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="291" y="675" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1609293695139" />
+    <state width="1879" height="351" key="GridCell.Tab.0.bottom" timestamp="1609409348520">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1609409348520" />
+    <state width="1879" height="351" key="GridCell.Tab.0.center" timestamp="1609409348520">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="351" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1609409348520" />
+    <state width="1879" height="351" key="GridCell.Tab.0.left" timestamp="1609409348520">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="351" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1609409348520" />
+    <state width="1879" height="351" key="GridCell.Tab.0.right" timestamp="1609409348520">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="351" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1609409348520" />
+    <state x="432" y="388" key="SettingsEditor" timestamp="1609411104369">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="432" y="388" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1609411104369" />
+    <state x="464" y="444" width="816" height="597" key="Vcs.Push.Dialog.v2" timestamp="1609405082672">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="464" y="444" width="816" height="597" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1609405082672" />
+    <state x="559" y="744" width="776" height="217" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609323598674">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="559" y="744" width="776" height="217" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1609323598674" />
+    <state width="756" height="642" key="javadoc.popup.new" timestamp="1609409084293">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="756" height="642" key="javadoc.popup.new/0.0.1920.1160@0.0.1920.1160" timestamp="1609409084293" />
+    <state x="616" y="270" key="run.anything.popup" timestamp="1609227939237">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="270" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1609227939237" />
+  </component>
+</project>
